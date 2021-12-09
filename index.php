@@ -51,7 +51,7 @@
             </div>
 
             <div class="col-3">
-                <img src="https://lh3.googleusercontent.com/proxy/BJoPCZHQWR5qqf527GtgR3ucoEc2uu6eGUU_fdbYjPDssCqJb0rKBaV7zG7g1vyeJ1C1cb1w8agk3Xt2WnxrU4VrgTaXFFPCrFztJM3mwXauMe29r97KwDq-" class="img-fluid" />
+                <img src="http://www.amazingthaitour.com/wp-content/uploads/2016/10/dkma.png" class="img-fluid" />
                 <p>
                     พิชิตยอดเขาโมโกจู อุทยานแห่งชาติแม่วงก์ จังหวัดกำแพงเพชร <br/>
                     อุทยานแห่งชาติแม่วงก์ ครอบคลุมพื้นที่ 2 จังหวัด คือ กำแพงเพชรและนครสวรรค์ และในพื้นที่อุทยานฯ แห่งนี้ เป็นที่ตั้งของ “ยอดเขาโมโกจู” ยอดเขาที่ได้ขึ้นชื่อว่าสูงที่สุดในอุทยานแห่งชาติแม่วงก์ ด้วยความสูง 1,964 เมตร เหนือระดับน้ำทะเลปานกลาง ช่วงระหว่างเดือนพฤศจิกายน-กุมภาพันธ์ของทุกปี ทางอุทยานฯ จะเปิดเส้นทางเดินป่าเพื่อให้นักท่องเที่ยวได้พิชิตยอดเขาโมโกจู
